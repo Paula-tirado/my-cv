@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container1{
+    display: flex;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.container2{
+    background-color:#79a97f;
+    width: 300px;
+    padding: 20px 20px 20px 20px ;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.fotopaula-jpeg  {
+    width: 200px;
+    height:200px;
+    border-radius: 80%;
+}
+.pat{
+    font-size: 32;
+    text-align: center; 
+}
+
+.dev{
+    text-align: center;
+    margin: 10px;
+    font-weight: normal;
+}
+
+.cont{
+    text-align: center;
+    margin: 10px;
+}
+.subtitulo{
+    text-align: center;
+}
+hr{
+  width: 90%;
+  background-color:gray;
+  margin: auto; 
+  margin-top: 20px;
+}
+
+.contacto ul li{
+    list-style:none;
+    display: flex;
+    margin: auto;
+}
+
+.educacion ul li{
+    list-style:none;
+}
+
+.list{
+    color: azure;
+}
+
+.negro{
+    color: black;
+    text-align: center;
+    margin: 10px;
+}
+h5{
+    display: flex;
+    font-weight: normal;
+    font-size: 15PX;
+    margin-left: 10px;
+}
+
+ h4{
+    display: flex;
+    margin-top: 10px;
+    font-size: 20PX;
+    margin-left: 10px;
+}
+ 
+h6{
+    display: flex;
+    font-weight: normal;
+    font-size: 15PX;
+    margin-left: 10px;
+}
+
+.container3{
+    width: 640px;
+}
+.mag{
+    margin: 10px;
+}
+.exp{
+    margin: 10px;
+}
+h3{
+    margin: 10px;
+    color: #79a97f;
+}
+
+.fecha{
+   margin-bottom: 10px;
+   color: #79a97f;
+}
+p{
+    text-align: justify;
+  margin-left: 10px;
+
+}
+.hab{
+    margin: 10px;
+}
+.ref{
+    margin: 10px;
+}
+
+.ng{
+    margin-left: 10px;
+    font-weight:bolder;
+    margin-top: 10px;
+}
+.lista{
+    margin-left: 30px;
+}
+
